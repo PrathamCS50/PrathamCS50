@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathamCS50
 - 👀 I’m interested in IOT
-- 🌱 I’m currently learning C Language
+- 🌱 I’m currently learning java programming Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :Insta: pratham_g_16
 
