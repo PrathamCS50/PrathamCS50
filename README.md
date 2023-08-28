@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PrathamCS50
-- 👀 I’m interested in IOT
-- 🌱 I’m currently learning java programming Language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :Insta: pratham_g_16
+- 👀 I’m interested in Internet of Things
+- 🌱 I have an expertise in Java Programming Language
+- 💞️ I’m looking to collaborate on java projects, mainly android apps 
+- 📫 Reach me :Insta: pratham_g_16
 
 <!---
 PrathamCS50/PrathamCS50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
