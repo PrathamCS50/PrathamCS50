@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrathamCS50
 - 👀 I’m interested in Internet of Things
 - 🌱 I have an expertise in Java Programming Language
-- 💞️ I’m looking to collaborate on java projects, mainly android apps 
+- 💞️ I’m looking to collaborate on java projects
 - 📫 Reach me :Insta: pratham_g_16
 
 <!---
