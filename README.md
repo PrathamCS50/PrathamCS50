@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrathamCS50
-- 👀 I’m interested in FullStack Development
+- 👀 I’m heading towards FullStack Development
 - 🌱 I have an expertise in Java Programming Language along with Javascript, React library, NextJS framework
 - 💞️ I’m looking to collaborate on projects
 
